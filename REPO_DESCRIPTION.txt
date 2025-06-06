@@ -1,0 +1,4 @@
+LangGraph Multi-Agent System
+
+This repo demonstrates how to build intelligent workflows using LangGraph. 
+Start with a simple single-agent and scale to multi-agent routing using LLMs, Serper search, and math logic — all orchestrated with LangGraph.
